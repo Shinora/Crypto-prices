@@ -16,12 +16,19 @@ You need to install 'threading' module
 # Help 
 
 - How to install the modules ? 
+
     'pip install requests'
+    
     'pip install bs4'
+    
     'pip install threading'
+    
  or
+ 
     'python -m pip install requests'
+    
     'python -m pip install bs4'
+    
     'python -m pip install threading'
     
     
