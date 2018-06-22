@@ -31,7 +31,7 @@ You need to install 'threading' module
     
     'python -m pip install threading'
     
- or you can do :
+ or you can just do :
      
      'pip install -r requirements.txt'
     
